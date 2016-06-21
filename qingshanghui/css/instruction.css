@@ -1,0 +1,5 @@
+.help_left{width:220px;overflow: hidden;}
+.help_left li{padding-left:20px;width:200px;height:40px;line-height:40px;cursor:pointer;border-bottom: 1px solid #FFFFFF;}
+.help_right{width:760px;overflow: hidden;padding-bottom: 20px;}
+.help_right h3{height:40px;line-height:40px;margin-bottom: 6px;}
+.help_right p{line-height:20px;}

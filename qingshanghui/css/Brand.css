@@ -1,0 +1,78 @@
+.brand_title{width:100%;height:120px;background: url(../img3/bg1.png) no-repeat;}
+.brand_title li{float: left;width: 313px;padding:36px 10px 0 10px;text-align: center;}
+
+.player{position:relative;width:100%;height:480px;overflow: hidden;}
+.play_button{position: absolute;top:200px;left: 0;width:100%;}
+.play_pre{position: absolute;left: 0;top:200px;background: url(../img3/bigbanner_leftarrows.png) no-repeat;width:50px;height:70px;}
+.play_next{position: absolute;left:960px;top:200px;background: url(../img3/bigbanner_rightarrows.png) no-repeat;width:50px;height:70px;}
+
+
+
+.play_img{width:900px;position: relative;margin:0 auto;height:480px;}
+.play_img li{float: left;padding-bottom: 43px;position: absolute;cursor: pointer;}
+.play_img li img{border:5px solid #bbb}
+.p1{left:0;top:90px;z-index: 7;}
+.p2{left:80px;top:60px;z-index:8;}
+.p3{left:180px;top:30px;z-index:9;}
+.p4{left:285px;top:0;z-index:10;}
+.p5{right:180px;top:30px;z-index:9;}
+.p6{right:80px;top:60px;z-index:8;}
+.p7{right:0;top:90px;z-index: 7;}
+
+.p1 .p7{width:175px;height:273px;overflow: hidden;}
+.p2 .p6{width:232px;height:348px;overflow: hidden;}
+.p3 .p5{width:285px;height:418px;overflow: hidden;}
+.p4{width:330px;height:435px;overflow: hidden;}
+
+.p1 img,.p7 img{width:155px;height:210px;overflow:hidden;opacity:.512;margin-left:5px;margin-top:5px}
+.p2 img,.p6 img{width:212px;height:285px;overflow:hidden;opacity:.64;margin-left:5px;margin-top:5px}
+.p3 img,.p5 img{width:265px;height:355px;overflow:hidden;opacity:.8;margin-left:5px;margin-top:5px}
+.p4 img{width:310px;height:415px;overflow:hidden;opacity:1;margin-left:5px;margin-top:5px}
+
+
+
+
+
+.partner li{float:left;height:195px;width:487px;border:1px solid #cccccc;
+        margin-bottom:10px;margin-right:10px;}
+.praise{height:126px;padding:17px 10px 0 127px ;background:url(../img3/it1.png) no-repeat left center;}
+.author{padding-top:22px;padding-left:20px;background:#cccccc;height:30px;}
+
+.ceo{position:relative;width:1000px; }
+.ceo_box{width:990px;height:464px;overflow: hidden;position:relative;}
+.ceo_pre{z-index:6;width:25px;height:40px;position: absolute;top:200px;left:0;background: url(../img3/bigbanner_leftarrows.png) no-repeat;}
+.ceo_next{z-index:6;width:25px;height:40px;position:absolute;top:200px;right:30px;background:url(../img3/bigbanner_rightarrows.png) no-repeat;}
+.ceo_play{height:464px;position: absolute;top:0;left: 0;}
+.ceo_play li{float: left;width:300px;height:464px;padding-right:20px;padding-left:20px;}
+
+
+
+
+
+
+
+
+
+/*
+.player{width:1000px;height:480px;overflow:hidden;margin:0 auto;position:relative}
+.player ul{width:900px;margin:0 auto;position:relative}
+.player li{float:left;position:absolute;padding-bottom:43px}
+#icon_left,#icon_right{width:50px;height:70px;position:absolute;top:250px;left:0;cursor:pointer}
+#icon_right{left:960px}
+#icon_left:hover,#icon_right:hover{filter:alpha(opacity=70);opacity:.7}
+.player li h3{position:absolute;bottom:48px;text-align:center;filter:alpha(opacity=70);opacity:.7;background-color:#000;left:0}
+.player li h3 a:link,.player li h3 a:visited{color:#fff}.p1 img,.p2 img,.p3 img,.p4 img,.p5 img,.p6 img,.p7 img{border:5px solid #bbb;box-shadow: -1px 1px 5px #b7b5b6,-1px -1px 5px #b7b5b6;cursor:pointer}
+.p1,.p7{width:175px;height:230px;overflow:hidden}
+.p1 img,.p7 img{width:155px;height:210px;overflow:hidden;opacity:.512;margin-left:5px;margin-top:5px}
+.p2,.p6{width:232px;height:305px;overflow:hidden}
+.p2 img,.p6 img{width:212px;height:285px;overflow:hidden;opacity:.64;margin-left:5px;margin-top:5px}
+.p3,.p5{width:285px;height:375px;overflow:hidden}
+.p3 img,.p5 img{width:265px;height:355px;overflow:hidden;opacity:.8;margin-left:5px;margin-top:5px}
+.p4{width:330px;height:435px;overflow:hidden}
+.p4 img{width:310px;height:415px;overflow:hidden;opacity:1;margin-left:5px;margin-top:5px}.p1{left:0;z-index:7;top:90px}
+.p1 h3,.p7 h3{padding:5px 0;font-size:13px;width:165px}
+.p2 h3,.p6 h3{padding:5px 0;font-size:15px;width:222px}
+.p3 h3,.p5 h3{padding:8px 0;font-size:18px;width:275px;bottom:8px}
+.p4 h3{padding-bottom:10px;padding-top:15px;font-size:22px;width:320px}
+*/
+

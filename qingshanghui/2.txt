@@ -1,0 +1,3 @@
+[
+	{src:'img3/middle1.jpg',name:'ESDFX',title:'╙у┐┌╨м',price:'гд1,399',befor_price:'гд8,999'}
+]
